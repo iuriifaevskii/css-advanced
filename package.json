@@ -1,0 +1,23 @@
+{
+  "name": "natours",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/style.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iuriifaevskii/css-advanced.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iuriifaevskii/css-advanced/issues"
+  },
+  "homepage": "https://github.com/iuriifaevskii/css-advanced#readme",
+  "dependencies": {
+    "live-server": "^1.2.0",
+    "node-sass": "^4.9.0"
+  }
+}
